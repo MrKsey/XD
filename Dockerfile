@@ -1,6 +1,6 @@
 #
 # Docker image for the I2P BitTorrent Client
-# Requred i2pd router. See "ksey/i2pd" docker image.
+# Requred i2pd router (see "ksey/i2pd" docker image)
 #
 FROM alpine:latest
 MAINTAINER Bob <kcey@mail.ru>
