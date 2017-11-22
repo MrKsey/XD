@@ -15,9 +15,8 @@ ENV STORAGE="$XD_HOME/storage"
 RUN mkdir -p "$STORAGE/downloads" \
 && adduser -S -h "$XD_HOME" xd \
 && chown -R xd:nobody "$XD_HOME" \
-&& chmod -R 700 "$XD_HOME"
-
-apk --no-cache add go build-base git yarn \
+&& chmod -R 700 "$XD_HOME" \
+&& apk --no-cache add go build-base git yarn \
 && git clone https://github.com/majestrate/XD /tmp/XD \
 && cd /tmp/XD \
 && make \
@@ -55,7 +54,7 @@ metadata=$STORAGE/metadata
 downloads=$STORAGE/downloads
 EOF
 
-EXPOSE "$XD_PORT"
+EXPOSE $XD_PORT
 
 VOLUME ["$XD_HOME"]
 
