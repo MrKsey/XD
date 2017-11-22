@@ -27,32 +27,30 @@ RUN mkdir -p "$STORAGE/downloads" \
 && cd / \
 && rm -rf /tmp/XD && apk --purge del go build-base git yarn \
 && touch $XD_HOME/trackers.ini \
-&& cat << EOF > $XD_HOME/torrents.ini \
-[rpc]
-enabled=1
-bind=$XD_IP:$XD_PORT
-
-[log]
-level=info
-pprof=0
-
-[bittorrent]
-pex=1
-dht=0
-swarms=1
-tracker-config=$XD_HOME/trackers.ini
-
-[gnutella]
-enabled=0
-
-[i2p]
-address=$I2P_ROUTER
-
-[storage]
-rootdir=$STORAGE
-metadata=$STORAGE/metadata
-downloads=$STORAGE/downloads
-EOF
+&& echo "[rpc]" > $XD_HOME/torrents.ini \
+&& echo "enabled=1" >> $XD_HOME/torrents.ini \
+&& echo "bind=$XD_IP:$XD_PORT" >> $XD_HOME/torrents.ini \
+&& echo "" >> $XD_HOME/torrents.ini \
+&& echo "[log]" >> $XD_HOME/torrents.ini \
+&& echo "level=info" >> $XD_HOME/torrents.ini \
+&& echo "pprof=0" >> $XD_HOME/torrents.ini \
+&& echo "" >> $XD_HOME/torrents.ini \
+&& echo "[bittorrent]" >> $XD_HOME/torrents.ini \
+&& echo "pex=1" >> $XD_HOME/torrents.ini \
+&& echo "dht=0" >> $XD_HOME/torrents.ini \
+&& echo "swarms=1" >> $XD_HOME/torrents.ini \
+&& echo "tracker-config=$XD_HOME/trackers.ini" >> $XD_HOME/torrents.ini \
+&& echo "" >> $XD_HOME/torrents.ini \
+&& echo "[gnutella]" >> $XD_HOME/torrents.ini \
+&& echo "enabled=0" >> $XD_HOME/torrents.ini \
+&& echo "" >> $XD_HOME/torrents.ini \
+&& echo "[i2p]" >> $XD_HOME/torrents.ini \
+&& echo "address=$I2P_ROUTER" >> $XD_HOME/torrents.ini \
+&& echo "" >> $XD_HOME/torrents.ini \
+&& echo "[storage]" >> $XD_HOME/torrents.ini \
+&& echo "rootdir=$STORAGE" >> $XD_HOME/torrents.ini \
+&& echo "metadata=$STORAGE/metadata" >> $XD_HOME/torrents.ini \
+&& echo "downloads=$STORAGE/downloads" >> $XD_HOME/torrents.ini
 
 EXPOSE $XD_PORT
 
