@@ -14,8 +14,6 @@ ENV STORAGE="$XD_HOME/storage"
 
 RUN mkdir -p "$STORAGE/downloads" \
 && adduser -S -h "$XD_HOME" xd \
-&& chown -R xd:nobody "$XD_HOME" \
-&& chmod -R 700 "$XD_HOME" \
 && apk --no-cache add go build-base git yarn \
 && git clone https://github.com/majestrate/XD /tmp/XD \
 && cd /tmp/XD \
@@ -50,16 +48,14 @@ RUN mkdir -p "$STORAGE/downloads" \
 && echo "[storage]" >> $XD_HOME/torrents.ini \
 && echo "rootdir=$STORAGE" >> $XD_HOME/torrents.ini \
 && echo "metadata=$STORAGE/metadata" >> $XD_HOME/torrents.ini \
-&& echo "downloads=$STORAGE/downloads" >> $XD_HOME/torrents.ini
+&& echo "downloads=$STORAGE/downloads" >> $XD_HOME/torrents.ini \
+&& chown -R xd:nobody "$XD_HOME" \
+&& chmod -R a+rw "$XD_HOME"
 
 EXPOSE $XD_PORT
-
 VOLUME ["$XD_HOME"]
-
 WORKDIR ["$XD_HOME"]
-
 USER xd
 
 ENTRYPOINT ["XD"]
-
 CMD ["$XD_HOME/torrents.ini"]
