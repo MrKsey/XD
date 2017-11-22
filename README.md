@@ -26,4 +26,4 @@ After started put torrent files into `/server/downloads/` to start downloading.
 
 To seed torrents put data files into `/server/downloads/` first then add torrent files.
 
-Web UI - http://<server IP>:1488/
+Web UI - http://[your i2pd IP adress]:1488/
