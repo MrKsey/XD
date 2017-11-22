@@ -36,7 +36,7 @@ RUN mkdir -p "$STORAGE/downloads" \
 && echo "pex=1" >> $XD_HOME/torrents.ini \
 && echo "dht=0" >> $XD_HOME/torrents.ini \
 && echo "swarms=1" >> $XD_HOME/torrents.ini \
-&& echo "tracker-config=$XD_HOME/trackers.ini" >> $XD_HOME/torrents.ini \
+&& echo "tracker-config=trackers.ini" >> $XD_HOME/torrents.ini \
 && echo "" >> $XD_HOME/torrents.ini \
 && echo "[gnutella]" >> $XD_HOME/torrents.ini \
 && echo "enabled=0" >> $XD_HOME/torrents.ini \
