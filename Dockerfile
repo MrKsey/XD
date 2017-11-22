@@ -27,7 +27,7 @@ RUN mkdir -p "$STORAGE/downloads" \
 && cd / \
 && rm -rf /tmp/XD && apk --purge del go build-base git yarn \
 && touch $XD_HOME/trackers.ini \
-&& cat << EOF > $XD_HOME/torrents.ini
+&& cat << EOF > $XD_HOME/torrents.ini \
 [rpc]
 enabled=1
 bind=$XD_IP:$XD_PORT
