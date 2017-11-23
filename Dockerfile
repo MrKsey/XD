@@ -6,14 +6,14 @@ FROM alpine:latest
 MAINTAINER Bob <kcey@mail.ru>
 ENV REFRESHED_AT 2017–11–22
 
-ENV XD_HOME="/home/xd"
 ENV XD_IP="0.0.0.0"
 ENV XD_PORT="1488"
 ENV I2P_ROUTER="127.0.0.1:7656"
 
 COPY start_xd.sh /start_xd.sh
 
-RUN chmod a+rx /start_xd.sh \
+RUN export XD_HOME="/home/xd" \
+&& chmod a+rx /start_xd.sh \
 && apk --no-cache add go build-base git yarn \
 && git clone https://github.com/majestrate/XD /tmp/XD \
 && cd /tmp/XD \
