@@ -15,11 +15,11 @@ More about XD - https://github.com/majestrate/XD
 
 ## Usage
 
-* create container from docker image "ksey/XD", set I2P_ROUTER="*your_i2pd_IP_adress*:7656"
+* create container from docker image "ksey/xd", set I2P_ROUTER="*your_i2pd_IP_adress*:7656"
 * create "/xd" directory on your server, connect this directory to the container directory "/home/xd" and start container. Example:
 ```
-docker pull ksey/XD
-docker run --name XD -d -p 1488:1488 -e I2P_ROUTER='your_i2pd_IP_adress:7656' -v /xd:/home/xd ksey/XD
+docker pull ksey/xd
+docker run --name XD -d -p 1488:1488 -e I2P_ROUTER='your_i2pd_IP_adress:7656' -v /xd:/home/xd ksey/xd
 ```
 
 After started put torrent files into `/xd/storage/downloads` to start downloading.
