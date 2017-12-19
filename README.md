@@ -40,7 +40,7 @@ Web UI - http://XD_IP:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2017-12-15 15:15:15: [majestrate/XD, COMMIT] css tweak
 * 2017-12-15 15:01:28: [majestrate/XD, COMMIT] update readme
 * 2017-12-15 14:58:25: [majestrate/XD, COMMIT] update readme
