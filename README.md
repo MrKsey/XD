@@ -41,12 +41,12 @@ Web UI - http://XD_IP:1488/
 
 
 
-* 2017-12-15 15:15:15: [majestrate/XD, COMMIT] css tweak
-* 2017-12-15 15:01:28: [majestrate/XD, COMMIT] update readme
-* 2017-12-15 14:58:25: [majestrate/XD, COMMIT] update readme
-* 2017-12-15 14:57:21: [majestrate/XD, COMMIT] have go get not require build tags, build webui only when tag specified
-* 2017-12-15 14:53:09: [majestrate/XD, COMMIT] bump license date
-* 2017-12-15 14:50:59: [majestrate/XD, COMMIT] fix up makefile, don't assume checked out from git
-* 2017-12-15 14:46:19: [majestrate/XD, COMMIT] prepare for 0.1.0
-* 2017-12-15 13:54:07: [majestrate/XD, COMMIT] fix rates
-* 2017-12-15 13:22:20: [majestrate/XD, COMMIT] add ratio tracking
+
+
+
+
+
+
+
+
+
