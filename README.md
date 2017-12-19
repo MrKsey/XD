@@ -50,6 +50,6 @@ Web UI - http://XD_IP:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2017-12-19 13:40:33: [majestrate/XD, COMMIT] support unix sockets for rpc
