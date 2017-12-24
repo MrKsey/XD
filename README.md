@@ -57,3 +57,4 @@ Web UI - http://XD_IP:1488/
 
 
 # #
+### majestrate/XD last 10 commits:
