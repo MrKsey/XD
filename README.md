@@ -54,5 +54,5 @@ Web UI - http://XD_IP:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2017-12-19 16:50:17: [majestrate/XD, COMMIT] add xd-cli target
