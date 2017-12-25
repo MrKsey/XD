@@ -11,7 +11,7 @@ adduser -D -s /bin/sh -u $HOST_USER_ID -G $(cat /etc/group | grep x:$HOST_GROUP_
 usermod -o -u $HOST_USER_ID -g $(cat /etc/group | grep x:$HOST_GROUP_ID: | cut -d: -f1) -d "$XD_HOME" -m xd 2> /dev/null
 addgroup xd $(cat /etc/group | grep x:$HOST_GROUP_ID: | cut -d: -f1) 2> /dev/null
 chown -R xd:$(cat /etc/group | grep x:$HOST_GROUP_ID: | cut -d: -f1) "$XD_HOME"
-chmod -R a+rw "$XD_HOME"
+chmod -R 666 "$XD_HOME"
 su - xd -c "echo 'umask 0000'>~/.profile"
 
 if [ ! -e $XD_HOME/torrents.ini ]; then
