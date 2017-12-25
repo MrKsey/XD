@@ -9,7 +9,7 @@ MAINTAINER Bob <kcey@mail.ru>
 ENV XD_IP="0.0.0.0"
 ENV XD_PORT="1488"
 
-# "127.0.0.1" - IP address of the i2pd router. MAST be changed to actual IP!!!
+# "127.0.0.1" - IP address of the i2pd router. MUST be changed to actual IP!!!
 # Port 7656 - SAM bridge of i2pd router, a higher level socket API for clients (like XD torrent client)
 ENV I2P_ROUTER="127.0.0.1:7656"
 
