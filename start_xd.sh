@@ -15,7 +15,6 @@ chown -R xd:$(cat /etc/group | grep x:$HOST_GROUP_ID: | cut -d: -f1) "$XD_HOME"
 su - xd -c "echo 'umask 0000'>~/.profile"
 
 if [ ! -e $XD_HOME/torrents.ini ]; then
-  
   su - xd -c "XD torrents.ini" &
   sleep 3
   killall XD 2> /dev/null
