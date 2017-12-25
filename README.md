@@ -16,8 +16,8 @@ More about XD - https://github.com/majestrate/XD
 ## Usage
 
 * create "/xd" directory (for example) on your host.
-* set environment variable HOST_USER: HOST_USER=*user*.
-  - *user* must exist and have read/write permissions on the "/xd" directory.
+* set environment variable HOST_USER: HOST_USER=*username*.
+  - *username* - host user, must exist and have read/write permissions on the "/xd" directory.
 * create container from docker image "ksey/xd", set I2P_ROUTER="*i2pd_IP_adress*:7656", connect host "/xd" directory to the container directory "/home/xd" and start container.
   - Example:
 ```
