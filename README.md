@@ -58,8 +58,8 @@ Web UI - http://XD_IP:1488/
 
 
 
-* 2017-12-24 16:18:33: [majestrate/XD, COMMIT] fixes
-* 2017-12-24 15:51:29: [majestrate/XD, COMMIT] more
-* 2017-12-24 14:36:53: [majestrate/XD, COMMIT] add
-* 2017-12-24 14:36:03: [majestrate/XD, COMMIT] add tracker (initial untested)
-* 2017-12-24 13:11:49: [majestrate/XD, COMMIT] tor support (initial and untested)
+
+
+
+
+
