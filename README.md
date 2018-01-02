@@ -45,7 +45,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2017-12-25 13:44:38: [majestrate/XD, COMMIT] Revert "tor support (initial and untested)"
 * 2017-12-25 13:44:38: [majestrate/XD, COMMIT] Revert "add tracker (initial untested)"
