@@ -62,3 +62,6 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2018-01-10 13:54:20: [majestrate/XD, COMMIT] update makefiles
+* 2018-01-10 13:38:21: [majestrate/XD, COMMIT] add new rule
+* 2018-01-10 13:36:29: [majestrate/XD, COMMIT] add more github crap
