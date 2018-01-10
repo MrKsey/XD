@@ -59,4 +59,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-01-01 21:47:28: [majestrate/XD, COMMIT] CURRENT YEAR
+
