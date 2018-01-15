@@ -67,4 +67,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-01-13 22:50:50: [majestrate/XD, COMMIT] make rpc 1.6 friendly
+
