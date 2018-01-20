@@ -75,3 +75,8 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2018-01-20 16:47:00: [majestrate/XD, COMMIT] increase max pending
+* 2018-01-20 16:30:00: [majestrate/XD, COMMIT] css and tabify
+* 2018-01-20 16:25:14: [majestrate/XD, COMMIT] css
+* 2018-01-20 16:11:16: [majestrate/XD, COMMIT] fix previous commit
+* 2018-01-20 15:58:48: [majestrate/XD, COMMIT] add global speed label in webui
