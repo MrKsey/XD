@@ -68,7 +68,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-01-15 12:38:08: [majestrate/XD, COMMIT] dont log extended opts as string
 * 2018-01-15 12:35:41: [majestrate/XD, COMMIT] try fixing ppc build
