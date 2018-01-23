@@ -85,8 +85,8 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-01-22 14:07:06: [majestrate/XD, COMMIT] space buttons better
-* 2018-01-22 13:55:44: [majestrate/XD, COMMIT] don't double start annoucing
-* 2018-01-22 13:54:32: [majestrate/XD, COMMIT] start annoucing on start
-* 2018-01-22 13:51:56: [majestrate/XD, COMMIT] increase default paralell requests
-* 2018-01-22 13:43:47: [majestrate/XD, COMMIT] webui and rpc fixes
+
+
+
+
+
