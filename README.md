@@ -92,3 +92,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2018-01-22 22:30:11: [majestrate/XD, COMMIT] try plugging memleak
