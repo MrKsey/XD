@@ -95,7 +95,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-01-23 13:36:10: [majestrate/XD, COMMIT] add torrent count to webui
-* 2018-01-23 13:33:37: [majestrate/XD, COMMIT] add --genconf option in XD
-* 2018-01-23 13:07:44: [majestrate/XD, COMMIT] use 2 bitfields instead of a byte slice for tracking downloaded pieces to reduce memory
-* 2018-01-23 12:38:57: [majestrate/XD, COMMIT] fix configuration for testnet. load environmental vars last.
+
+
+
+
