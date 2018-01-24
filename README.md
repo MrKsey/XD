@@ -93,7 +93,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-01-23 13:36:10: [majestrate/XD, COMMIT] add torrent count to webui
 * 2018-01-23 13:33:37: [majestrate/XD, COMMIT] add --genconf option in XD
