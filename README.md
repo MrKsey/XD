@@ -99,7 +99,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-01-24 17:48:07: [majestrate/XD, COMMIT] attempt fix for issue #42
 * 2018-01-24 17:38:23: [majestrate/XD, COMMIT] update service
