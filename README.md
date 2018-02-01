@@ -114,7 +114,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-01-31 13:07:57: [majestrate/XD, COMMIT] hack
-* 2018-01-31 12:51:29: [majestrate/XD, COMMIT] fix check
-* 2018-01-31 12:46:44: [majestrate/XD, COMMIT] add untracked file
-* 2018-01-31 12:46:29: [majestrate/XD, COMMIT] try reducuing memory use
+
+
+
+
