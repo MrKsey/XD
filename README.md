@@ -112,7 +112,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-01-31 13:07:57: [majestrate/XD, COMMIT] hack
 * 2018-01-31 12:51:29: [majestrate/XD, COMMIT] fix check
