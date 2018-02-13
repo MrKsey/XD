@@ -124,3 +124,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2018-02-13 11:55:00: [majestrate/XD, COMMIT] mor badges
+* 2018-02-13 11:49:36: [majestrate/XD, COMMIT] MOAR BADGES
+* 2018-02-13 11:47:04: [majestrate/XD, COMMIT] MOAR BADGES
+* 2018-02-13 11:38:25: [majestrate/XD, COMMIT] add packaging badge thingydoo
