@@ -118,7 +118,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-02-01 17:55:40: [majestrate/XD, COMMIT] try fix for ppc
 * 2018-02-01 17:37:43: [majestrate/XD, COMMIT] try fixing gccgo build
