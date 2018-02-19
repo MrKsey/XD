@@ -147,3 +147,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2018-02-19 14:07:08: [majestrate/XD, COMMIT] don't cancel remote pieces
+* 2018-02-19 14:01:17: [majestrate/XD, COMMIT] try to not spam cancel
+* 2018-02-19 13:54:55: [majestrate/XD, COMMIT] unset bitfield on bad piece
+* 2018-02-19 13:53:35: [majestrate/XD, COMMIT] close storage last
+* 2018-02-19 13:51:35: [majestrate/XD, COMMIT] don't lock
+* 2018-02-19 13:42:29: [majestrate/XD, COMMIT] properly expire timed out pieces
+* 2018-02-19 13:19:25: [majestrate/XD, COMMIT] don't lock on visiting cached piece
+* 2018-02-19 13:17:36: [majestrate/XD, COMMIT] don't lock on close
+* 2018-02-19 13:09:41: [majestrate/XD, COMMIT] use correct function on choke
+* 2018-02-19 13:04:09: [majestrate/XD, COMMIT] add custom download dirs and custom seeding dir (incomplete)
