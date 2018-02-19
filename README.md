@@ -129,7 +129,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-02-18 21:06:56: [majestrate/XD, COMMIT] try plugging memory leaks
 * 2018-02-18 20:43:37: [majestrate/XD, COMMIT] try fixing leak when downloading
 * 2018-02-18 20:05:34: [majestrate/XD, COMMIT] decrement counter on timeout
