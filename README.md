@@ -136,7 +136,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-02-18 22:38:47: [majestrate/XD, COMMIT] expire pending every tick
 * 2018-02-18 22:17:01: [majestrate/XD, COMMIT] UNLIMITED REQUESTS WORK
