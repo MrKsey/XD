@@ -130,9 +130,9 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-02-18 21:06:56: [majestrate/XD, COMMIT] try plugging memory leaks
-* 2018-02-18 20:43:37: [majestrate/XD, COMMIT] try fixing leak when downloading
-* 2018-02-18 20:05:34: [majestrate/XD, COMMIT] decrement counter on timeout
-* 2018-02-18 19:47:08: [majestrate/XD, COMMIT] try lowering memory usage
-* 2018-02-18 19:18:22: [majestrate/XD, COMMIT] rename option
-* 2018-02-18 19:14:52: [majestrate/XD, COMMIT] add initial torrent queuing
+
+
+
+
+
+
