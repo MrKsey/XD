@@ -138,10 +138,10 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-02-18 22:38:47: [majestrate/XD, COMMIT] expire pending every tick
-* 2018-02-18 22:17:01: [majestrate/XD, COMMIT] UNLIMITED REQUESTS WORK
-* 2018-02-18 22:03:27: [majestrate/XD, COMMIT] increase parallel piece requests
-* 2018-02-18 21:57:59: [majestrate/XD, COMMIT] set bitfield on check
-* 2018-02-18 21:55:34: [majestrate/XD, COMMIT] dont cache pieces in memory, write to disk instead
-* 2018-02-18 21:24:13: [majestrate/XD, COMMIT] make max pending pieces proportional to piece length
-* 2018-02-18 21:12:47: [majestrate/XD, COMMIT] more gc tweaks
+
+
+
+
+
+
+
