@@ -162,3 +162,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2018-02-21 20:15:30: [majestrate/XD, COMMIT] squash bugs
