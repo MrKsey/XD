@@ -158,5 +158,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-02-21 12:25:39: [majestrate/XD, COMMIT] don't make a new go routine when trying to send
