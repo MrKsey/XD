@@ -146,7 +146,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-02-19 14:07:08: [majestrate/XD, COMMIT] don't cancel remote pieces
 * 2018-02-19 14:01:17: [majestrate/XD, COMMIT] try to not spam cancel
 * 2018-02-19 13:54:55: [majestrate/XD, COMMIT] unset bitfield on bad piece
