@@ -166,7 +166,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-02-24 12:38:20: [majestrate/XD, COMMIT] prevent dns rebinding
 * 2018-02-24 12:15:42: [majestrate/XD, COMMIT] fix moveto
