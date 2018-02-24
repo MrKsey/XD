@@ -165,4 +165,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-02-24 00:12:52: [majestrate/XD, COMMIT] check for bitfiled nil, happens on startup
+
