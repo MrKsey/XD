@@ -168,13 +168,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-02-24 12:38:20: [majestrate/XD, COMMIT] prevent dns rebinding
-* 2018-02-24 12:15:42: [majestrate/XD, COMMIT] fix moveto
-* 2018-02-24 11:46:59: [majestrate/XD, COMMIT] not standalone technically
-* 2018-02-24 11:42:51: [majestrate/XD, COMMIT] add check
-* 2018-02-24 11:29:37: [majestrate/XD, COMMIT] check for seeding after move
-* 2018-02-24 11:29:02: [majestrate/XD, COMMIT] less logging
-* 2018-02-24 11:25:07: [majestrate/XD, COMMIT] add log after check
-* 2018-02-24 11:19:53: [majestrate/XD, COMMIT] do deep check on verify all
-* 2018-02-24 11:10:20: [majestrate/XD, COMMIT] don't add torrent if verify failed
-* 2018-02-24 11:09:18: [majestrate/XD, COMMIT] add local file torrent adding
+
+
+
+
+
+
+
+
+
+
