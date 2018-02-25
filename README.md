@@ -178,7 +178,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-02-24 18:12:56: [majestrate/XD, COMMIT] oversized metainfo fix
 * 2018-02-24 18:04:19: [majestrate/XD, COMMIT] magnets are now partially supported
