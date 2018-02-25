@@ -180,13 +180,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-02-24 18:12:56: [majestrate/XD, COMMIT] oversized metainfo fix
-* 2018-02-24 18:04:19: [majestrate/XD, COMMIT] magnets are now partially supported
-* 2018-02-24 17:45:51: [majestrate/XD, COMMIT] allocate files after getting info
-* 2018-02-24 17:40:20: [majestrate/XD, COMMIT] off by one?
-* 2018-02-24 17:38:35: [majestrate/XD, COMMIT] check for ready when putting slice
-* 2018-02-24 17:32:47: [majestrate/XD, COMMIT] more
-* 2018-02-24 17:29:31: [majestrate/XD, COMMIT] more
-* 2018-02-24 17:17:11: [majestrate/XD, COMMIT] more
-* 2018-02-24 17:07:30: [majestrate/XD, COMMIT] more
-* 2018-02-24 16:41:11: [majestrate/XD, COMMIT] more
+
+
+
+
+
+
+
+
+
+
