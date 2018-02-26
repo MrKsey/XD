@@ -191,7 +191,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-02-25 15:01:55: [majestrate/XD, COMMIT] update readme
 * 2018-02-25 15:01:19: [majestrate/XD, COMMIT] check for nil extensions (should never happen but it does for some reason)
 * 2018-02-25 15:01:13: [majestrate/XD, COMMIT] readme update
