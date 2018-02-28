@@ -197,4 +197,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-02-25 22:04:40: [majestrate/XD, COMMIT] update readme
+
