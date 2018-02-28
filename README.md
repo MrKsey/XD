@@ -200,7 +200,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-02-27 19:39:45: [majestrate/XD, COMMIT] fix up problems detected by vscode
-* 2018-02-27 19:36:16: [majestrate/XD, COMMIT] add initial transmission rpc boilerplate
-* 2018-02-27 19:35:01: [majestrate/XD, COMMIT] update gitignore
-* 2018-02-27 19:31:36: [majestrate/XD, COMMIT] add vscode config files and  some doc fixes
+
+
+
+
