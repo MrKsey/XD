@@ -206,4 +206,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-02-28 14:04:15: [majestrate/XD, COMMIT] refactor to use xd/lib/sync and add more transmission rpc stuff
+
