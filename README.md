@@ -213,3 +213,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2018-03-01 18:19:09: [majestrate/XD, COMMIT] typofix
+* 2018-03-01 15:54:04: [majestrate/XD, COMMIT] don't request over and over again
+* 2018-03-01 15:52:19: [majestrate/XD, COMMIT] more
+* 2018-03-01 15:50:50: [majestrate/XD, COMMIT] more
+* 2018-03-01 15:36:55: [majestrate/XD, COMMIT] more
+* 2018-03-01 15:33:55: [majestrate/XD, COMMIT] more
+* 2018-03-01 14:58:37: [majestrate/XD, COMMIT] try fixing ut_metadata
+* 2018-03-01 13:56:14: [majestrate/XD, COMMIT] fix
+* 2018-03-01 13:52:21: [majestrate/XD, COMMIT] don't use pointer for extension messages
+* 2018-03-01 13:27:02: [majestrate/XD, COMMIT] more
