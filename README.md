@@ -209,5 +209,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-03-01 11:58:29: [majestrate/XD, COMMIT] fix typo
-* 2018-03-01 11:56:27: [majestrate/XD, COMMIT] use signature type 7 (eddsa) by default
+
+
