@@ -51,5 +51,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-03-02 21:56:22: [majestrate/XD, COMMIT] add anodex.py script
