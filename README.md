@@ -53,7 +53,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-03-13 16:39:00: [majestrate/XD, COMMIT] even more transmission rpc stuff
 * 2018-03-13 15:42:21: [majestrate/XD, COMMIT] more logging
