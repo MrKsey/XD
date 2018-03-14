@@ -55,10 +55,10 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-03-13 16:39:00: [majestrate/XD, COMMIT] even more transmission rpc stuff
-* 2018-03-13 15:42:21: [majestrate/XD, COMMIT] more logging
-* 2018-03-13 15:40:19: [majestrate/XD, COMMIT] more transmission rpc stuf
-* 2018-03-13 15:20:05: [majestrate/XD, COMMIT] more transmissionrpc stuff
-* 2018-03-13 15:17:10: [majestrate/XD, COMMIT] more transmissionrpc stuff
-* 2018-03-13 14:19:05: [majestrate/XD, COMMIT] more transmission rpc stuff
-* 2018-03-13 13:57:23: [majestrate/XD, COMMIT] make rpc host configurable and retain dns rebinding protection
+
+
+
+
+
+
+
