@@ -22,6 +22,7 @@ if [ ! -e $XD_HOME/torrents.ini ]; then
 fi
 
 sed -i -e 's/bind.*=.*[[:digit:]]\+\.[[:digit:]]\+\.[[:digit:]]\+\.[[:digit:]]:[[:digit:]]\+/bind='"$XD_IP:$XD_PORT"'/g' $XD_HOME/torrents.ini
+sed -i -e 's/host.*=.*[[:digit:]]\+\.[[:digit:]]\+\.[[:digit:]]\+\.[[:digit:]]:[[:digit:]]\+/host='"$XD_IP"'/g' $XD_HOME/torrents.ini
 sed -i -e 's/address.*=.*[[:digit:]]\+\.[[:digit:]]\+\.[[:digit:]]\+\.[[:digit:]]:[[:digit:]]\+/address='"$I2P_ROUTER"'/g' $XD_HOME/torrents.ini
 sed -i -e 's#\ *=\ *storage#='"$XD_HOME/storage"'#g' $XD_HOME/torrents.ini
 
