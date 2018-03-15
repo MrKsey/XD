@@ -62,7 +62,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-03-14 17:25:40: [majestrate/XD, COMMIT] remove seediop
 * 2018-03-14 17:20:56: [majestrate/XD, COMMIT] reuse buffers
