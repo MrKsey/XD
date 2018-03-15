@@ -68,6 +68,6 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-03-14 19:04:46: [majestrate/XD, COMMIT] close on write error
