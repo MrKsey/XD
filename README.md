@@ -71,7 +71,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-03-15 15:09:03: [majestrate/XD, COMMIT] fix infinite loop
 * 2018-03-15 14:53:56: [majestrate/XD, COMMIT] don't use non blocking sockets after handshake
