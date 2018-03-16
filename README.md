@@ -81,6 +81,6 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-03-16 11:53:32: [majestrate/XD, COMMIT] Merge pull request #53 from r4sas/debian-stuff
 * 2018-03-16 03:01:30: [majestrate/XD, COMMIT] init debian packaging stuff
