@@ -73,10 +73,10 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-03-15 15:09:03: [majestrate/XD, COMMIT] fix infinite loop
-* 2018-03-15 14:53:56: [majestrate/XD, COMMIT] don't use non blocking sockets after handshake
-* 2018-03-15 14:43:54: [majestrate/XD, COMMIT] explicit close
-* 2018-03-15 13:57:52: [majestrate/XD, COMMIT] close connection after removing it
-* 2018-03-15 13:45:34: [majestrate/XD, COMMIT] more
-* 2018-03-15 12:44:35: [majestrate/XD, COMMIT] close peer connection once
-* 2018-03-15 12:08:27: [majestrate/XD, COMMIT] make pooled file io optional and off by default
+
+
+
+
+
+
+
