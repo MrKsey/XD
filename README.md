@@ -86,5 +86,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-03-16 21:13:31: [majestrate/XD, COMMIT] Merge pull request #55 from r4sas/debian-stuff
-* 2018-03-16 20:35:51: [majestrate/XD, COMMIT] complete debian buildfiles
+
+
