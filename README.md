@@ -90,10 +90,10 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-03-17 13:24:38: [majestrate/XD, COMMIT] start out as net lost
-* 2018-03-17 13:23:11: [majestrate/XD, COMMIT] properly handle stdin
-* 2018-03-17 13:02:56: [majestrate/XD, COMMIT] contextual more
-* 2018-03-17 12:26:57: [majestrate/XD, COMMIT] don't infinite loop
-* 2018-03-17 12:23:20: [majestrate/XD, COMMIT] add sleep
-* 2018-03-17 12:20:49: [majestrate/XD, COMMIT] Merge branch 'master' of ssh://github.com/majestrate/XD
-* 2018-03-17 12:20:26: [majestrate/XD, COMMIT] try making session reconnect work
+
+
+
+
+
+
+
