@@ -88,7 +88,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-03-17 13:24:38: [majestrate/XD, COMMIT] start out as net lost
 * 2018-03-17 13:23:11: [majestrate/XD, COMMIT] properly handle stdin
