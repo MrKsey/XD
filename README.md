@@ -98,5 +98,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-03-17 18:18:48: [majestrate/XD, COMMIT] initial xd_ephemchat code
