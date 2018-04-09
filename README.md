@@ -113,3 +113,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2018-04-09 11:45:34: [majestrate/XD, COMMIT] bump version
+* 2018-04-09 11:32:37: [majestrate/XD, COMMIT] minor fixup
