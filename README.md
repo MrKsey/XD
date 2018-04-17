@@ -116,7 +116,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-04-13 19:33:02: [majestrate/XD, COMMIT] Merge pull request #60 from l-n-s/webui
 * 2018-04-13 19:21:35: [majestrate/XD, COMMIT] webui: torrent deletion confirmation
 * 2018-04-13 11:37:51: [majestrate/XD, COMMIT] webui: better colors and spacing
