@@ -126,7 +126,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-04-18 13:13:03: [majestrate/XD, COMMIT] fix
 * 2018-04-18 13:10:01: [majestrate/XD, COMMIT] don't spam checking piece requests in endgame
