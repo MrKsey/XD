@@ -135,3 +135,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2018-04-21 16:40:43: [majestrate/XD, COMMIT] more
+* 2018-04-21 16:11:33: [majestrate/XD, COMMIT] add udp/datagram code
