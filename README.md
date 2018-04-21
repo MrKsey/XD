@@ -128,8 +128,8 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-04-18 13:13:03: [majestrate/XD, COMMIT] fix
-* 2018-04-18 13:10:01: [majestrate/XD, COMMIT] don't spam checking piece requests in endgame
-* 2018-04-18 12:20:43: [majestrate/XD, COMMIT] add distclean target, closes github issue #59
-* 2018-04-18 11:42:29: [majestrate/XD, COMMIT] move pex into tick function
-* 2018-04-18 11:28:45: [majestrate/XD, COMMIT] use 1 go routine for download logic instead of 1 for each connection
+
+
+
+
+
