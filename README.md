@@ -139,8 +139,8 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-04-22 14:21:09: [majestrate/XD, COMMIT] compute b32 correctly ;~;
-* 2018-04-22 14:08:18: [majestrate/XD, COMMIT] always do pex
-* 2018-04-22 14:00:50: [majestrate/XD, COMMIT] buffer writes and use non blocking sockets
-* 2018-04-22 12:03:48: [majestrate/XD, COMMIT] use correct value in announce
-* 2018-04-22 11:54:04: [majestrate/XD, COMMIT] use port in connect
+
+
+
+
+
