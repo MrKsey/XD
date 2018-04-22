@@ -137,7 +137,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-04-22 14:21:09: [majestrate/XD, COMMIT] compute b32 correctly ;~;
 * 2018-04-22 14:08:18: [majestrate/XD, COMMIT] always do pex
