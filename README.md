@@ -146,10 +146,10 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-04-22 15:42:55: [majestrate/XD, COMMIT] more
-* 2018-04-22 15:29:17: [majestrate/XD, COMMIT] fix crash with magnet and multiswarm
-* 2018-04-22 15:16:10: [majestrate/XD, COMMIT] fix previous commit
-* 2018-04-22 15:15:06: [majestrate/XD, COMMIT] use proper buffering
-* 2018-04-22 14:58:45: [majestrate/XD, COMMIT] more buffering attempts
-* 2018-04-22 14:44:41: [majestrate/XD, COMMIT] flush before sending big messages
-* 2018-04-22 14:43:39: [majestrate/XD, COMMIT] don't buffer big messages
+
+
+
+
+
+
+
