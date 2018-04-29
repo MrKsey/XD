@@ -144,7 +144,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-04-22 15:42:55: [majestrate/XD, COMMIT] more
 * 2018-04-22 15:29:17: [majestrate/XD, COMMIT] fix crash with magnet and multiswarm
