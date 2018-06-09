@@ -156,7 +156,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-05-03 22:42:25: [majestrate/XD, COMMIT] don't straddle lots of pieces
 * 2018-05-03 22:03:24: [majestrate/XD, COMMIT] more error checking
