@@ -165,3 +165,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2018-06-09 11:57:02: [majestrate/XD, COMMIT] Merge branch 'master' of ssh://github.com/majestrate/XD
 * 2018-06-09 11:56:47: [majestrate/XD, COMMIT] add explicit announce after seeding
 # #
+### majestrate/XD last 10 commits:
