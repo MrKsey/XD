@@ -166,3 +166,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2018-06-09 11:56:47: [majestrate/XD, COMMIT] add explicit announce after seeding
 # #
 ### majestrate/XD last 10 commits:
+* 2018-06-09 11:57:02: [majestrate/XD, COMMIT] Merge branch 'master' of ssh://github.com/majestrate/XD
+* 2018-06-09 11:56:47: [majestrate/XD, COMMIT] add explicit announce after seeding
+* 2018-05-03 22:42:25: [majestrate/XD, COMMIT] don't straddle lots of pieces
+* 2018-05-03 22:03:24: [majestrate/XD, COMMIT] more error checking
+* 2018-04-29 19:07:01: [majestrate/XD, COMMIT] close
+* 2018-04-22 15:42:55: [majestrate/XD, COMMIT] more
+* 2018-04-22 15:29:17: [majestrate/XD, COMMIT] fix crash with magnet and multiswarm
+* 2018-04-22 15:16:10: [majestrate/XD, COMMIT] fix previous commit
+* 2018-04-22 15:15:06: [majestrate/XD, COMMIT] use proper buffering
+* 2018-04-22 14:58:45: [majestrate/XD, COMMIT] more buffering attempts
