@@ -59,17 +59,17 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-07-11 10:45:09: [majestrate/XD, COMMIT] bump version
-* 2018-07-11 10:43:25: [majestrate/XD, COMMIT] don't spin in place with requests
 
 
-* 2018-07-11 10:45:09: [majestrate/XD, COMMIT] bump version
-* 2018-07-11 10:43:25: [majestrate/XD, COMMIT] don't spin in place with requests
-* 2018-06-30 16:38:28: [majestrate/XD, COMMIT] forgot more
-* 2018-06-30 16:36:40: [majestrate/XD, COMMIT] revert
-* 2018-06-30 13:26:39: [majestrate/XD, COMMIT] bump version
-* 2018-06-30 13:21:52: [majestrate/XD, COMMIT] try checking for online status in rpc
-* 2018-06-30 13:15:09: [majestrate/XD, COMMIT] try fixing issue #65
-* 2018-06-09 11:57:02: [majestrate/XD, COMMIT] Merge branch 'master' of ssh://github.com/majestrate/XD
-* 2018-06-09 11:56:47: [majestrate/XD, COMMIT] add explicit announce after seeding
-* 2018-05-03 22:42:25: [majestrate/XD, COMMIT] don't straddle lots of pieces
+
+
+
+
+
+
+
+
+
+
+
+
