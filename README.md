@@ -78,3 +78,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2018-08-12 16:09:29: [majestrate/XD, COMMIT] Merge pull request #66 from radfish/PR--log-levels
 * 2018-08-12 15:18:52: [majestrate/XD, COMMIT] log: parse all possible log strings from config
 # #
+### majestrate/XD last 10 commits:
