@@ -90,5 +90,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-10-13 01:04:30: [majestrate/XD, COMMIT] bump version even though almost nothing in the codebase has changed but you got to YOLO!
