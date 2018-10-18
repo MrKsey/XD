@@ -94,3 +94,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2018-10-13 01:04:30: [majestrate/XD, COMMIT] bump version even though almost nothing in the codebase has changed but you got to YOLO!
 # #
 ### majestrate/XD last 10 commits:
+* 2018-10-13 01:04:30: [majestrate/XD, COMMIT] bump version even though almost nothing in the codebase has changed but you got to YOLO!
+* 2018-08-12 16:09:29: [majestrate/XD, COMMIT] Merge pull request #66 from radfish/PR--log-levels
+* 2018-08-12 15:18:52: [majestrate/XD, COMMIT] log: parse all possible log strings from config
+* 2018-07-11 10:45:09: [majestrate/XD, COMMIT] bump version
+* 2018-07-11 10:43:25: [majestrate/XD, COMMIT] don't spin in place with requests
+* 2018-06-30 16:38:28: [majestrate/XD, COMMIT] forgot more
+* 2018-06-30 16:36:40: [majestrate/XD, COMMIT] revert
+* 2018-06-30 13:26:39: [majestrate/XD, COMMIT] bump version
+* 2018-06-30 13:21:52: [majestrate/XD, COMMIT] try checking for online status in rpc
+* 2018-06-30 13:15:09: [majestrate/XD, COMMIT] try fixing issue #65
