@@ -52,7 +52,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-12-01 15:49:20: [majestrate/XD, COMMIT] set announce port
 * 2018-12-01 15:39:17: [majestrate/XD, COMMIT] morre
