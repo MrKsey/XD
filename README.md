@@ -40,7 +40,7 @@ To seed torrents put data files into `/xd/storage/downloads` first then add torr
 Web UI can be accessed at http://*host_ip*:1488/
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-10-13 01:04:30: [majestrate/XD, COMMIT] bump version even though almost nothing in the codebase has changed but you got to YOLO!
 * 2018-08-12 16:09:29: [majestrate/XD, COMMIT] Merge pull request #66 from radfish/PR--log-levels
