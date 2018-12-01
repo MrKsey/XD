@@ -54,6 +54,6 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-12-01 15:49:20: [majestrate/XD, COMMIT] set announce port
-* 2018-12-01 15:39:17: [majestrate/XD, COMMIT] morre
-* 2018-12-01 14:46:42: [majestrate/XD, COMMIT] initial lokinet code
+
+
+
