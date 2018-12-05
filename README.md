@@ -57,7 +57,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-12-01 17:07:20: [majestrate/XD, COMMIT] make distinction of i2p pex and lokinet pex
 * 2018-12-01 16:22:55: [majestrate/XD, COMMIT] fix port from announce
