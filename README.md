@@ -62,7 +62,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-12-05 18:43:23: [majestrate/XD, COMMIT] more default separation
 * 2018-12-05 18:34:02: [majestrate/XD, COMMIT] add default trackers for lokinet
 * 2018-12-05 18:30:28: [majestrate/XD, COMMIT] add lokinet build tag
