@@ -63,8 +63,8 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2018-12-05 18:43:23: [majestrate/XD, COMMIT] more default separation
-* 2018-12-05 18:34:02: [majestrate/XD, COMMIT] add default trackers for lokinet
-* 2018-12-05 18:30:28: [majestrate/XD, COMMIT] add lokinet build tag
-* 2018-12-05 18:16:04: [majestrate/XD, COMMIT] save config parameter
-* 2018-12-05 18:15:04: [majestrate/XD, COMMIT] play nice with transmission
+
+
+
+
+
