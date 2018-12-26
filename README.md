@@ -69,5 +69,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2018-12-09 16:23:53: [majestrate/XD, COMMIT] tweak defaults
