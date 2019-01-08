@@ -71,7 +71,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2018-12-26 12:46:10: [majestrate/XD, COMMIT] bump version
 * 2018-12-26 12:44:50: [majestrate/XD, COMMIT] Merge branch 'master' of ssh://github.com/majestrate/XD
