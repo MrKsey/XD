@@ -78,5 +78,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2019-01-08 13:16:51: [majestrate/XD, COMMIT] explicit lookup every connect for lokinet
-* 2019-01-08 13:04:52: [majestrate/XD, COMMIT] correct defaults for linux
+
+
