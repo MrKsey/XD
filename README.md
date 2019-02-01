@@ -85,3 +85,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2019-01-08 13:34:01: [majestrate/XD, COMMIT] log announcing
 * 2019-01-08 13:30:18: [majestrate/XD, COMMIT] announce right away
 # #
+### majestrate/XD last 10 commits:
