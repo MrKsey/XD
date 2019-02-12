@@ -52,6 +52,6 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2019-02-10 21:16:49: [majestrate/XD, COMMIT] Merge branch 'obscure-version' of eccentric/XD into master
 * 2019-02-09 03:55:16: [majestrate/XD, COMMIT] constant to use git version if available (true by default)
