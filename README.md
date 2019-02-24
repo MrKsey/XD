@@ -56,6 +56,6 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2019-02-12 01:31:18: [majestrate/XD, COMMIT] Merge branch 'fix-d-torrents' of eccentric/XD into master
 * 2019-02-12 00:56:00: [majestrate/XD, COMMIT] add integer into rpc TN
