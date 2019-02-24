@@ -61,4 +61,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2019-02-23 23:31:59: [majestrate/XD, COMMIT] always use compact tracker announces for i2p
+
