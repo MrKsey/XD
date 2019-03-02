@@ -64,4 +64,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2019-02-24 13:29:42: [majestrate/XD, COMMIT] update piece selection to be less fragmented
+
