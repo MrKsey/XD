@@ -67,3 +67,6 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2019-03-02 13:57:07: [majestrate/XD, COMMIT] make it compile
+* 2019-03-02 13:56:35: [majestrate/XD, COMMIT] fix regression and add unit test to check for it
+* 2019-03-02 13:19:35: [majestrate/XD, COMMIT] start adding unit tests
