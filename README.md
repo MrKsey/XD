@@ -72,3 +72,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2019-03-02 13:19:35: [majestrate/XD, COMMIT] start adding unit tests
 # #
 ### majestrate/XD last 10 commits:
+* 2019-03-02 13:57:07: [majestrate/XD, COMMIT] make it compile
+* 2019-03-02 13:56:35: [majestrate/XD, COMMIT] fix regression and add unit test to check for it
+* 2019-03-02 13:19:35: [majestrate/XD, COMMIT] start adding unit tests
+* 2019-02-24 13:29:42: [majestrate/XD, COMMIT] update piece selection to be less fragmented
+* 2019-02-23 23:31:59: [majestrate/XD, COMMIT] always use compact tracker announces for i2p
+* 2019-02-12 01:31:18: [majestrate/XD, COMMIT] Merge branch 'fix-d-torrents' of eccentric/XD into master
+* 2019-02-12 00:56:00: [majestrate/XD, COMMIT] add integer into rpc TN
+* 2019-02-10 21:16:49: [majestrate/XD, COMMIT] Merge branch 'obscure-version' of eccentric/XD into master
+* 2019-02-09 03:55:16: [majestrate/XD, COMMIT] constant to use git version if available (true by default)
+* 2019-01-26 17:19:49: [majestrate/XD, COMMIT] try fixing 69
