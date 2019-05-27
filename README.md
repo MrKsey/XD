@@ -83,7 +83,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2019-04-07 15:27:16: [majestrate/XD, COMMIT] Merge pull request #73 from eyedeekay/master
 * 2019-04-07 13:25:39: [majestrate/XD, COMMIT] don't use sudo in postinst
 * 2019-04-07 03:46:27: [majestrate/XD, COMMIT] it doesn't need to chown at all anymore
