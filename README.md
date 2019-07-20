@@ -52,3 +52,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2019-03-02 13:19:35: [majestrate/XD, COMMIT] start adding unit tests
 * 2019-02-24 13:29:42: [majestrate/XD, COMMIT] update piece selection to be less fragmented
 # #
+### majestrate/XD last 10 commits:
