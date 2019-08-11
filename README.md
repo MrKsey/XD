@@ -41,13 +41,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2019-05-27 13:17:31: [majestrate/XD, COMMIT] Merge branch 'master' of ssh://github.com/majestrate/XD
-* 2019-05-27 13:17:19: [majestrate/XD, COMMIT] update readme
-* 2019-04-07 15:27:16: [majestrate/XD, COMMIT] Merge pull request #73 from eyedeekay/master
-* 2019-04-07 13:25:39: [majestrate/XD, COMMIT] don't use sudo in postinst
-* 2019-04-07 03:46:27: [majestrate/XD, COMMIT] it doesn't need to chown at all anymore
-* 2019-04-07 03:46:27: [majestrate/XD, COMMIT] fix the initscript and resolve a lintian complaint
-* 2019-03-02 13:57:07: [majestrate/XD, COMMIT] make it compile
-* 2019-03-02 13:56:35: [majestrate/XD, COMMIT] fix regression and add unit test to check for it
-* 2019-03-02 13:19:35: [majestrate/XD, COMMIT] start adding unit tests
-* 2019-02-24 13:29:42: [majestrate/XD, COMMIT] update piece selection to be less fragmented
+
+
+
+
+
+
+
+
+
+
