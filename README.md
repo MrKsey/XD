@@ -55,3 +55,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 * 2019-08-11 17:30:08: [majestrate/XD, COMMIT] update default tracker list
 # #
+### majestrate/XD last 10 commits:
