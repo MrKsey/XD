@@ -51,7 +51,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2020-03-21 23:38:21: [majestrate/XD, COMMIT] typo
 * 2020-03-21 23:27:33: [majestrate/XD, COMMIT] update default lokinet tracker
