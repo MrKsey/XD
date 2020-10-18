@@ -61,3 +61,9 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2020-10-18 10:10:42: [majestrate/XD, COMMIT] Makefile: fix webui target
+* 2020-10-18 09:56:32: [majestrate/XD, COMMIT] readme update again
+* 2020-10-18 09:52:58: [majestrate/XD, COMMIT] update readme
+* 2020-10-18 09:51:35: [majestrate/XD, COMMIT] more cleanup
+* 2020-10-18 09:48:27: [majestrate/XD, COMMIT] purge vendored
+* 2020-10-18 09:47:03: [majestrate/XD, COMMIT] great rename
