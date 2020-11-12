@@ -41,3 +41,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2020-11-02 19:13:54: [majestrate/XD, COMMIT] fix issue #82
+* 2020-10-18 10:10:42: [majestrate/XD, COMMIT] Makefile: fix webui target
+* 2020-10-18 09:56:32: [majestrate/XD, COMMIT] readme update again
+* 2020-10-18 09:52:58: [majestrate/XD, COMMIT] update readme
+* 2020-10-18 09:51:35: [majestrate/XD, COMMIT] more cleanup
+* 2020-10-18 09:48:27: [majestrate/XD, COMMIT] purge vendored
+* 2020-10-18 09:47:03: [majestrate/XD, COMMIT] great rename
+* 2020-04-27 18:30:11: [majestrate/XD, COMMIT] bump version
+* 2020-04-27 18:26:35: [majestrate/XD, COMMIT] address issue #80
+* 2020-03-21 23:38:21: [majestrate/XD, COMMIT] typo
