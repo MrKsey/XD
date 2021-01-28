@@ -52,7 +52,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2021-01-07 11:54:27: [majestrate/XD, COMMIT] Merge pull request #86 from adnan360/progress
 * 2021-01-07 11:53:20: [majestrate/XD, COMMIT] Merge pull request #84 from adnan360/magnet-placeholder
 * 2021-01-07 06:14:50: [majestrate/XD, COMMIT] Add progress percentage on webui
