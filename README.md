@@ -59,5 +59,5 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2021-01-27 22:14:03: [majestrate/XD, COMMIT] Merge pull request #88 from komachi/master
-* 2021-01-27 21:12:43: [majestrate/XD, COMMIT] feat: provide AppArmor profile, build deb package with AppArmor profile included
+
+
