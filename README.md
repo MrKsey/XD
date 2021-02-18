@@ -67,3 +67,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2021-01-31 16:13:26: [majestrate/XD, COMMIT] fix: fix apparmor profile syntax, allow to create cache dir
 # #
 ### majestrate/XD last 10 commits:
+* 2021-01-31 16:17:10: [majestrate/XD, COMMIT] Merge pull request #89 from komachi/fix-apparmor-profile
+* 2021-01-31 16:13:26: [majestrate/XD, COMMIT] fix: fix apparmor profile syntax, allow to create cache dir
+* 2021-01-27 22:14:03: [majestrate/XD, COMMIT] Merge pull request #88 from komachi/master
+* 2021-01-27 21:12:43: [majestrate/XD, COMMIT] feat: provide AppArmor profile, build deb package with AppArmor profile included
+* 2021-01-07 11:54:27: [majestrate/XD, COMMIT] Merge pull request #86 from adnan360/progress
+* 2021-01-07 11:53:20: [majestrate/XD, COMMIT] Merge pull request #84 from adnan360/magnet-placeholder
+* 2021-01-07 06:14:50: [majestrate/XD, COMMIT] Add progress percentage on webui
+* 2021-01-07 03:14:30: [majestrate/XD, COMMIT] Change placeholder of torrent-url-input to include magnet url
+* 2020-11-02 19:13:54: [majestrate/XD, COMMIT] fix issue #82
+* 2020-10-18 10:10:42: [majestrate/XD, COMMIT] Makefile: fix webui target
