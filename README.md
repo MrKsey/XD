@@ -39,7 +39,7 @@ To seed torrents put data files into `/xd/storage/downloads` first then add torr
 
 Web UI can be accessed at http://*host_ip*:1488/
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2021-01-31 16:17:10: [majestrate/XD, COMMIT] Merge pull request #89 from komachi/fix-apparmor-profile
 * 2021-01-31 16:13:26: [majestrate/XD, COMMIT] fix: fix apparmor profile syntax, allow to create cache dir
