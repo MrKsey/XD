@@ -59,3 +59,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 # #
 ### majestrate/XD last 10 commits:
+* 2021-03-23 15:01:16: [majestrate/XD, COMMIT] more
+* 2021-03-23 14:34:45: [majestrate/XD, COMMIT] remove from swarm on stop
+* 2021-03-23 14:27:10: [majestrate/XD, COMMIT] fixes
+* 2021-03-23 14:12:29: [majestrate/XD, COMMIT] fix previous commit
+* 2021-03-23 14:08:47: [majestrate/XD, COMMIT] dont accept new peers when we are closed
+* 2021-03-23 14:08:39: [majestrate/XD, COMMIT] lokinet stuff
+* 2021-03-23 13:29:34: [majestrate/XD, COMMIT] Merge branch 'master' of ssh://github.com/majestrate/XD
+* 2021-03-23 13:29:00: [majestrate/XD, COMMIT] fix lokinet outbound connections
+* 2021-03-23 12:43:22: [majestrate/XD, COMMIT] update release script
+* 2021-03-23 12:43:12: [majestrate/XD, COMMIT] update lokinet tracker url
