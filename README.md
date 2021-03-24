@@ -52,7 +52,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-### majestrate/XD last 10 commits:
+
 * 2021-03-22 21:07:22: [majestrate/XD, COMMIT] bump version
 * 2021-03-22 21:02:52: [majestrate/XD, COMMIT] requires go 1.16
 * 2021-03-22 21:02:52: [majestrate/XD, COMMIT] use go:embed
