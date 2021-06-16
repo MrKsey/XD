@@ -57,7 +57,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-# #
+
 ### majestrate/XD last 10 commits:
 * 2021-03-23 15:01:16: [majestrate/XD, COMMIT] more
 * 2021-03-23 14:34:45: [majestrate/XD, COMMIT] remove from swarm on stop
