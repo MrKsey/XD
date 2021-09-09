@@ -79,3 +79,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2021-06-15 12:09:19: [majestrate/XD, COMMIT] make release script use git version
 * 2021-06-15 12:06:29: [majestrate/XD, COMMIT] Update README.md
 # #
+### majestrate/XD last 10 commits:
