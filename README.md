@@ -53,7 +53,7 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 * 2021-09-16 01:32:43: [majestrate/XD, COMMIT] Update README.md
-# #
+
 ### majestrate/XD last 10 commits:
 * 2021-09-16 01:32:43: [majestrate/XD, COMMIT] Update README.md
 * 2021-06-15 12:59:45: [majestrate/XD, COMMIT] bump version
