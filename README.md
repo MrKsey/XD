@@ -52,16 +52,16 @@ Web UI can be accessed at http://*host_ip*:1488/
 
 
 
-* 2021-09-16 01:32:43: [majestrate/XD, COMMIT] Update README.md
 
 
-* 2021-09-16 01:32:43: [majestrate/XD, COMMIT] Update README.md
-* 2021-06-15 12:59:45: [majestrate/XD, COMMIT] bump version
-* 2021-06-15 12:59:23: [majestrate/XD, COMMIT] bullshit change for release
-* 2021-06-15 12:59:01: [majestrate/XD, COMMIT] uncomment release line
-* 2021-06-15 12:58:37: [majestrate/XD, COMMIT] redo release process
-* 2021-06-15 12:58:31: [majestrate/XD, COMMIT] redo makefile
-* 2021-06-15 12:09:19: [majestrate/XD, COMMIT] make release script use git version
-* 2021-06-15 12:06:29: [majestrate/XD, COMMIT] Update README.md
-* 2021-03-23 15:01:16: [majestrate/XD, COMMIT] more
-* 2021-03-23 14:34:45: [majestrate/XD, COMMIT] remove from swarm on stop
+
+
+
+
+
+
+
+
+
+
+
