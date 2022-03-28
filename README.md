@@ -53,3 +53,13 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2021-12-18 15:46:58: [majestrate/XD, COMMIT] Merge pull request #95 from r4sas/announce-fix
 # #
 ### majestrate/XD last 10 commits:
+* 2022-03-15 16:14:46: [majestrate/XD, COMMIT] Merge pull request #97 from acetoneRu/master
+* 2022-03-15 15:49:08: [majestrate/XD, COMMIT] I2CP parameters
+* 2021-12-19 14:02:00: [majestrate/XD, COMMIT] Merge pull request #96 from r4sas/trackers
+* 2021-12-19 08:16:08: [majestrate/XD, COMMIT] announce uploaded size (counted for session, not since torrent was added)
+* 2021-12-19 08:09:02: [majestrate/XD, COMMIT] add extension to built with make windows binary
+* 2021-12-19 04:25:32: [majestrate/XD, COMMIT] add r4sas opentracker, reorder list (skank and thebland is less stable)
+* 2021-12-19 03:57:48: [majestrate/XD, COMMIT] correct url
+* 2021-12-19 03:18:26: [majestrate/XD, COMMIT] go fmt
+* 2021-12-19 03:17:56: [majestrate/XD, COMMIT] update opentracker defualt list for i2p
+* 2021-12-18 15:54:37: [majestrate/XD, COMMIT] fix up release script notes generation formatting
