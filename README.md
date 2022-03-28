@@ -52,3 +52,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2021-12-18 15:48:05: [majestrate/XD, COMMIT] bump version to 0.4.2
 * 2021-12-18 15:46:58: [majestrate/XD, COMMIT] Merge pull request #95 from r4sas/announce-fix
 # #
+### majestrate/XD last 10 commits:
