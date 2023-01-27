@@ -38,7 +38,7 @@ After started put torrent files into `/xd/storage/downloads` to start downloadin
 To seed torrents put data files into `/xd/storage/downloads` first then add torrent files.
 
 Web UI can be accessed at http://*host_ip*:1488/
-# #
+
 ### majestrate/XD last 10 commits:
 * 2022-03-15 16:14:46: [majestrate/XD, COMMIT] Merge pull request #97 from acetoneRu/master
 * 2022-03-15 15:49:08: [majestrate/XD, COMMIT] I2CP parameters
