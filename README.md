@@ -50,3 +50,4 @@ Web UI can be accessed at http://*host_ip*:1488/
 * 2021-12-19 03:18:26: [majestrate/XD, COMMIT] go fmt
 * 2021-12-19 03:17:56: [majestrate/XD, COMMIT] update opentracker defualt list for i2p
 * 2021-12-18 15:54:37: [majestrate/XD, COMMIT] fix up release script notes generation formatting
+# #
